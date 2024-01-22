@@ -1,5 +1,5 @@
 {
-  "name": "inshare",
+  "name": "ShareHub",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "author": "",
+  "author": "Sai Teja Bolla",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
